@@ -1,0 +1,8 @@
+{
+  "name": "GETO Hub",
+  "description": "Access personal social profiles and a collection of active Telegram bots managed by GETO in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
